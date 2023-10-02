@@ -114,7 +114,6 @@ public class CalculateBill extends JFrame implements ActionListener{
         add(p, "Center");
         
         getContentPane().setBackground(new Color(0X78DEC7));
-        
         setVisible(true);
     }
     
